@@ -1,0 +1,6 @@
+{
+  "name": "HTML5 Video Player",
+  "description": "A modern, responsive, mobile-first HTML5 and MPEG-DASH video player with ClearKey support, gesture controls, and playback persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
